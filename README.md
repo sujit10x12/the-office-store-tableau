@@ -20,3 +20,9 @@ Performance by Location Dashboard
 -  Top 10 states by sales
 -  Top 10 selling products
 -  Table showing performance by state
+
+## Dashboards
+![Sales Dashboard](https://github.com/user-attachments/assets/d65482af-4200-4e58-a6d2-f258120780ec)
+![Performance by Location](https://github.com/user-attachments/assets/1b25d1b0-2585-4a89-9533-149862898b0d)
+
+
