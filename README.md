@@ -23,8 +23,9 @@ Performance by Location Dashboard
 
 ## Dashboards
 Sales Dashboard
-![Sales Dashboard](https://github.com/user-attachments/assets/d65482af-4200-4e58-a6d2-f258120780ec)
+![Sales Dashboard](https://github.com/user-attachments/assets/e18b6107-13fb-408e-b0e0-28cdc0ed8f44)
 Performance by Location
-![Performance by Location](https://github.com/user-attachments/assets/1b25d1b0-2585-4a89-9533-149862898b0d)
+![Performance by Location](https://github.com/user-attachments/assets/c04e14ac-54c9-4e6c-9cf5-fd9102a69f9e)
+
 
 
