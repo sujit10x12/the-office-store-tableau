@@ -1,5 +1,5 @@
 # The-Office-Store-Data-Analysis (Interactive Dashboard creation using Tableau)
-📌 Project Objective
+## Project Objective
 To analyze the performance of a fictional e-commerce company by examining product sales across different U.S. states from 2016 to 2019.
 
 ## Dataset
