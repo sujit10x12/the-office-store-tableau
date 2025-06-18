@@ -22,6 +22,10 @@ In this project my primary focus is on to analyze the performance of different p
 -  Table showing performance by state
 
 ## Data Pre-Processing & Data Cleaning
-- Since dataset is ready to use it doesn't require any pre-processing before doing visualization althoug I have done some basic cleaning in Tableau and join fact tables to dimension tables to extract extra information.
+- Since dataset is ready to use it doesn't require any pre-processing before doing visualization although I have done some basic cleaning in Tableau and join fact tables to dimension tables to extract extra information.
+
+## Dataset
+- <a target="_blank" href="https://github.com/sujit10x12/the-office-store-tableau/blob/main/Datasets/SalesData.xlsx">Sales Data</a>
+- <a target="_blank" href="https://github.com/sujit10x12/the-office-store-tableau/blob/main/Datasets/Dimension%20Tables.xlsx">Dimension Tables</a>
 
 
