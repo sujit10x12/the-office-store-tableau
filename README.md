@@ -4,7 +4,7 @@
 
 This is a sales analytics project. In which I conducted an analysis on sales of an e-commerce company by examining product sales across different U.S. states from 2016 to 2019.
 
-Tableau Dashboard Link: <a target="_blank" href="https://public.tableau.com/views/TableauFundamentals_17483200559180/PerformancebyLocation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Performance by Location</a>
+Tableau Dashboard: <a target="_blank" href="https://public.tableau.com/views/TableauFundamentals_17483200559180/PerformancebyLocation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Performance by Location</a>
 | <a target="_blank" href="https://public.tableau.com/views/TableauFundamentals_17483200559180/PerformancebyLocation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Sales</a>
 
 ## Objective
