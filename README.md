@@ -1,4 +1,14 @@
 # The-Office-Store-Data-Analysis (Interactive Dashboard creation using Tableau)
+![Sales Dashboard](https://github.com/user-attachments/assets/97cdde69-1f2a-4a2c-a965-b7e0d58e39d6)
+![Performance by Location](https://github.com/user-attachments/assets/02c9ea93-f136-468f-a72d-85be37f23709)
+
+This is a sales analytics project. In which I conducted an analysis on sales of a e-commerce company by examining product sales across different U.S. states from 2016 to 2019.
+
+Tableau Dashboard Link: <a target="_blank" href="https://public.tableau.com/views/TableauFundamentals_17483200559180/PerformancebyLocation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Performance by Location</a>
+Tableau Dashboard Link: <a target="_blank" href="https://public.tableau.com/views/TableauFundamentals_17483200559180/PerformancebyLocation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"></a>
+
+
+
 ## Project Objective
 To analyze the performance of a fictional e-commerce company by examining product sales across different U.S. states from 2016 to 2019.
 
